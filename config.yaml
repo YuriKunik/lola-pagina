@@ -4,7 +4,7 @@
 
 # baseURL: "https://lolalopezmenalled.github.io/lola-pagina/"
 baseURL: "https://YuriKunik.github.io/lola-pagina/"
-relativeURLs: false
+relativeURLs: true
 languageCode: "en-us"
 title: "Lola López Menalled"
 theme: hugo-profile
